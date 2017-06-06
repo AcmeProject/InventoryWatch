@@ -1,0 +1,16 @@
+scanner_recipe:
+  line1: "aba"
+  line2: "bcb"
+  line3: "aba"
+  ingredients:
+  - "a:MAGMA_CREAM"
+  - "b:EMERALD"
+  - "c:STICK"
+blocker_recipe:
+  line1: "aba"
+  line2: "bcb"
+  line3: "aba"
+  ingredients:
+  - "a:MAGMA_CREAM"
+  - "b:EMERALD"
+  - "c:REDSTONE_BLOCK"

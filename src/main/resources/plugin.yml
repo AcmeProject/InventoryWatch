@@ -1,0 +1,3 @@
+name: InventoryWatch
+version: ${project.version}
+main: net.poweredbyhate.inventorywatch.InventoryWatch
